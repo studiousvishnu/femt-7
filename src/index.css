@@ -1,0 +1,14 @@
+body{
+ 
+  background: #f3eae3;
+ 
+}
+@media(min-width:1024px)
+{
+  body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

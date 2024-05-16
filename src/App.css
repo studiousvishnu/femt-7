@@ -1,0 +1,11 @@
+.heading{
+  letter-spacing: 2px;
+  color:#c3c2c8;
+}
+
+.add-btn{
+  background: #3e8168;
+}
+.add-btn:hover{
+background: #1a4031;
+}
